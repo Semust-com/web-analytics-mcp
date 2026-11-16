@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "semust": {
+      "command": "python3",
+      "args": [
+        "/absolute/path/to/semust-mcp/semust_mcp.py"
+      ],
+      "env": {
+        "SEMUST_API_KEY": "your-api-key-here",
+        "SEMUST_MCP_TOOLSETS": "metrik"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270" role="img" aria-label="Claude, Claude Code or Cursor calls semust-mcp on your computer, which loads 14 tools with SEMUST_MCP_TOOLSETS=metrik. It calls the Semust API with your MCP key, and Semust reads Semust Metrik.">
+  <rect width="880" height="270" rx="16" fill="#f4f3ec"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#7a746a"/>
+    </marker>
+  </defs>
+  <rect x="10.0" y="32" width="421.3" height="144" rx="16" fill="none" stroke="#e3dfd2" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="24.0" y="51" font-size="11.5" font-weight="600" letter-spacing="1.2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#7a746a">YOUR COMPUTER</text>
+  <g>
+    <rect x="20.0" y="62" width="182" height="104" rx="12" fill="#fffdf8" stroke="#e3dfd2"/>
+    <text x="111.0" y="106" text-anchor="middle" font-size="16" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#17100e">AI assistant</text>
+    <text x="111.0" y="130" text-anchor="middle" font-size="12.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#3d3d3d">Claude · Cursor</text>
+    <rect x="239.3" y="62" width="182" height="104" rx="12" fill="#fffdf8" stroke="#b2562e" stroke-width="1.5"/>
+    <text x="330.3" y="106" text-anchor="middle" font-size="16" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#17100e">semust-mcp</text>
+    <text x="330.3" y="130" text-anchor="middle" font-size="12.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#3d3d3d">14 tools loaded</text>
+    <rect x="458.7" y="62" width="182" height="104" rx="12" fill="#fffdf8" stroke="#e3dfd2"/>
+    <text x="549.7" y="106" text-anchor="middle" font-size="16" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#17100e">Semust API</text>
+    <text x="549.7" y="130" text-anchor="middle" font-size="12.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#3d3d3d">your MCP key · HTTPS</text>
+    <rect x="678.0" y="62" width="182" height="104" rx="12" fill="#fffdf8" stroke="#e3dfd2"/>
+    <text x="769.0" y="106" text-anchor="middle" font-size="16" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#17100e">Semust Metrik</text>
+    <text x="769.0" y="130" text-anchor="middle" font-size="12.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#3d3d3d">script on your site</text>
+  </g>
+  <line x1="206.0" y1="114.0" x2="235.3" y2="114.0" stroke="#7a746a" stroke-width="1.5" marker-end="url(#a)"/>
+  <line x1="425.3" y1="114.0" x2="454.7" y2="114.0" stroke="#7a746a" stroke-width="1.5" marker-end="url(#a)"/>
+  <line x1="644.7" y1="114.0" x2="674.0" y2="114.0" stroke="#7a746a" stroke-width="1.5" marker-end="url(#a)"/>
+  <text x="440.0" y="216" text-anchor="middle" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#b2562e">SEMUST_MCP_TOOLSETS=metrik</text>
+  <text x="440.0" y="240" text-anchor="middle" font-size="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" fill="#7a746a">Only list_projects and these families are registered. Your key is sent only to Semust.</text>
+</svg>
